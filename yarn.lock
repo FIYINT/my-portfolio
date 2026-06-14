@@ -15731,7 +15731,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"next@npm:^16.2.6":
+"next@npm:^16.2.9":
   version: 16.2.9
   resolution: "next@npm:16.2.9"
   dependencies:
@@ -20295,7 +20295,7 @@ __metadata:
     clsx: "npm:^2.1.1"
     jsdom: "npm:^26.1.0"
     lucide-react: "npm:^1.7.0"
-    next: "npm:^16.2.6"
+    next: "npm:^16.2.9"
     next-themes: "npm:^0.4.6"
     pg: "npm:^8.21.0"
     radix-ui: "npm:^1.4.3"
